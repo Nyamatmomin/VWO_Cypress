@@ -1,0 +1,15 @@
+{
+  "name": "vwo_cypress",
+  "version": "1.0.0",
+  "description": "Testing advance mouse move, Actions, Frame Switch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nyamat",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.1",
+    "cypress-real-events": "^1.7.4"
+  }
+}
